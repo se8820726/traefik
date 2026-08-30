@@ -134,4 +134,4 @@ Because `vnet` is external, `docker compose down` does not remove it.
 
 ## License
 
-No license has been specified. Add a license file before distributing or accepting contributions if you want to define reuse terms explicitly.
+This project is open-source software licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute it, including for commercial purposes, subject to the terms of the license.
